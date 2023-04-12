@@ -38,7 +38,8 @@ pip install yfinance streamlit pandas
 
 
 Run the app using streamlit run stockprice.py
-Usage
+
+# Usage
 The app displays the historical closing price 
 and volume of Tesla's stock. 
 The closing price is plotted on a line chart, and 
