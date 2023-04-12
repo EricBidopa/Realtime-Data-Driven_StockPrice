@@ -33,6 +33,10 @@ stock price that you need to see and the ticker duration.
 Clone the repository
 ## Install the required libraries:
 pip install yfinance streamlit pandas
+
+
+
+
 Run the app using streamlit run stockprice.py
 Usage
 The app displays the historical closing price 
